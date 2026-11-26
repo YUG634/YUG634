@@ -84,8 +84,7 @@ AI-powered system for scholarship and admission analysis.
 ### [SchemaGuard](https://github.com/YUG634/SchemaGuard)
 Schema-focused system for validation and structured data integrity.
 
-### [LogSync](https://github.com/YUG634/LogSync)
-System designed for log synchronization and operational visibility.
+
 
 ---
 
